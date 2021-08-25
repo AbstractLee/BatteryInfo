@@ -1,0 +1,9 @@
+Package: com.lee.batteryinfo
+Name: BatteryInfo
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Get iOS battery information.
+Maintainer: AbstractLee
+Author: AbstractLee
+Section: System
+Tag: role::hacker
